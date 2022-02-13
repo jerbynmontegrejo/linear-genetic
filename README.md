@@ -11,4 +11,4 @@ This follows as:
 6. Repeat steps from 3 -5 until number of generations defined met.
 7. Voila! We get the best chromosome(solution)
 
-Sample Equation to be solved --< a + 2b + 3c + 4d = 30
+Sample Equation to be solved --> a + 2b + 3c + 4d = 30
